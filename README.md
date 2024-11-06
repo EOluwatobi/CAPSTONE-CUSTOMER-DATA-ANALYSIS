@@ -8,7 +8,7 @@ This project focuses on analyzing customer data to understand the subscripton pa
 
 
 ## Data Overview
-- Customer Id: The uniwue identifier of each customer
+- Customer Id: The unique identifier of each customer
 - Customer Name: The names of all customers
 - Region: The region which every customer is based.
 - Subscription Type: This is categorized into three part(Basic, Premium and Standard) based on customers preference
@@ -17,4 +17,8 @@ This project focuses on analyzing customer data to understand the subscripton pa
 - Cancelled: This is categorized as False and True. False validates that the customer did not cancel the subscription type while True validates that the subscription type of that customer has ended.
 - Revenue: The income generated per customer based on the subscription type.
 
-## Data Methodology
+## Data Cleaning and Methodology
+The following actions were performed in this phase:
+- Remove duplicate data
+- Identify cancellation patters of subscription type
+- Track the popular subscription type such as exploring the factors of patterns based on duration.
