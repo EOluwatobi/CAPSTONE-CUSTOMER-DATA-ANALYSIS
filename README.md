@@ -65,8 +65,8 @@ The following questions provided insights on the data
 
 
 
-![Screenshot 2024-11-07 002818](https://github.com/user-attachments/assets/81859f19-5164-4e99-a1aa-b611214eb8ea)
 
+![Screenshot 2024-11-07 003257](https://github.com/user-attachments/assets/7ce3d581-ce38-481d-91b5-3ded26e66688)
 
 
 
