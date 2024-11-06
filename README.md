@@ -22,3 +22,16 @@ The following actions were performed in this phase:
 - Remove duplicate data
 - Identify cancellation patters of subscription type
 - Track the popular subscription type such as exploring the factors of patterns based on duration.
+
+## Explorative Data Analysis
+The following questions provided insights on the data
+- What is the total number of customers from each region. 
+- Determine the most popular subscription type by the number of customers. 
+- Determine customers who canceled their subscription within 6 months. 
+- What is the average subscription duration for all customers. 
+- Find customers with subscriptions longer than 12 months. 
+- calculate total revenue by subscription type. 
+- Determine he top 3 regions by subscription cancellations. 
+- Find the total number of active and canceled subscriptions.
+
+
