@@ -45,7 +45,7 @@ The dataset has the following content: ([LITA Capstone customer.csv](https://git
 
 ## Tools Used
   - Microsoft Excel- for data cleaning and report building
-  - Structured Query Language(SQL)- for data queries and insight generation. 
+  - Structured Query Language(SQL)- for data queries and insight generation.
   - PowerBi- Displaying of interractive dashboard
   
 
@@ -72,6 +72,11 @@ The following questions provided insights on the data
 - Determine the top 3 regions by subscription cancellations. 
 - Find the total number of active and canceled subscriptions.
 
+
+ ```SQL
+select * from [dbo].[LITA_Capstone_Customer]
+Subscription_duration = subscriptionend - subscriptionstart
+```
 
 ## Dashboard Overview
 
