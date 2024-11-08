@@ -1,6 +1,6 @@
 # CAPSTONE-CUSTOMER-DATA-ANALYSIS
 
-[Introduction](introduction)
+[Introduction](#introduction)
 
 
 [Data Overview](#data-overview)
@@ -19,7 +19,7 @@
 
 
 
-[Recommendation](recommendation)
+[Recommendation](#recommendation)
 
 ## Introduction
 ---
@@ -73,10 +73,14 @@ The following questions provided insights on the data
 - Find the total number of active and canceled subscriptions.
 
 
+
+
  ```SQL
 select * from [dbo].[LITA_Capstone_Customer]
 Subscription_duration = subscriptionend - subscriptionstart
 ```
+
+
 
 ## Dashboard Overview
 
