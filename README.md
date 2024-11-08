@@ -45,7 +45,7 @@ The dataset has the following content: ([LITA Capstone customer.csv](https://git
 
 ## Tools Used
   - Microsoft Excel- for data cleaning and report building
-  - Structured Query Language(SQL)- for data queries and insight gebneration
+  - Structured Query Language(SQL)- for data queries and insight generation. 
   - PowerBi- Displaying of interractive dashboard
   
 
