@@ -15,6 +15,9 @@
 [Dashboard Overview](#dashboard-overview)
 
 
+[Findings and conclusion](#findings-and-conclusion)
+
+
 
 ## Introduction
 ---
@@ -36,6 +39,13 @@ The dataset has the following content: ([LITA Capstone customer.csv](https://git
 - Subscription End: The End data which a customer cancels his/her subscription type.
 - Cancelled: This is categorized as False and True. False validates that the customer did not cancel the subscription type while True validates that the subscription type of that customer has ended.
 - Revenue: The income generated per customer based on the subscription type.
+
+
+## Tools Used
+  - Microsoft Excel
+  - Structured Query Language(SQL)
+  - PowerBi
+  
 
 ## Data Cleaning and Methodology
 ---
@@ -69,6 +79,13 @@ The following questions provided insights on the data
 ![Screenshot 2024-11-07 003257](https://github.com/user-attachments/assets/7ce3d581-ce38-481d-91b5-3ded26e66688)
 
 
+### Findings and conclusion
+---
+
+- The report shows a total number of 33,787 subscribers and a total revenue of $67,540,175 was generated from all the subscribers of subscription type across the 4 operating regions. The East region produced a larger revenue of 25.11%, following closely is the South region with 25.02%, the North region contributed 24.90% and the West region contributed the least revenue of 24.97%. 
+- The Basic subscription pattern is the most preferred and popular subscription type having the highest subscribers of 16,921 producing a total of 50.01% revenue. A total number of 8,446 customers subscribed for the Premium subscription type with a percentage revenue of 25.02%. The Standard subscription type being the least has 8,420 subscribers generating 24.97% revenue. 
+- Out of 33,787 subscribers, 18,612 customers remained active with their subscription type while 15,175 customers cancelled their subscription which 5,067 were basic subscribers who were from the North region, 5,064 were Premium subscribers from the South Region and 5,044 were Standard subscribers from the West Region. The analysis shows that 8,488 who are the basic subscribers from the East Region did not cancel their subscription, hence, they are satisfied with their Basic subscription type. 
+- The subscription duration is 12 months, however, Seven (7) customers subscribed longer than 12 months. 3 Basic subscribers, 2 Premium and Standard subscribers respectively. 
 
 
 
