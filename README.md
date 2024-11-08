@@ -105,9 +105,8 @@ The following questions provided insights on the data
 
 ## Recommendation
 
-The strategy which thrived sales in the East region should be implemented across all regions to further increase revenue. Organization of marketing campaigns and adverts of other subscription type (Premium and Standard) should be actioned for customers to have knowledge of it most especially at the East and North Region.  
-Identifying that the Basic subscription generates more revenue, the subscription type should be made available to customers also at all regional levels. 
-Identify the possible causes of the low turnover of revenue at the 3rd and 4th quarter to avoid a repeat of loss on subsequent years  
-The high rate of customers who cancelled the premium and Standard subscription type is alarming. Hence, there should be discount prices or promos for these subscription pattern to retain customers and avoid losing revenue. 
-The implementation of customer survey and engagement to get feedbacks from them would help the organization to improve customer satisfaction.
+- The strategy which thrived sales in the East region should be implemented across all regions to further increase revenue. Organization of marketing campaigns and adverts of other subscription type (Premium and Standard) should be actioned for customers to have knowledge of it most especially at the East and North Region.  
+- Identifying that the Basic subscription generates more revenue, the subscription type should be made available to customers also at all regional levels. 
+- Identify the possible causes of the low turnover of revenue at the 3rd and 4th quarter to avoid a repeat of loss on subsequent years. The high rate of customers who cancelled the premium and Standard subscription type is alarming. Hence, there should be discount prices or promos for these subscription pattern to retain customers and avoid losing revenue. 
+- The implementation of customer survey and engagement to get feedbacks from them would help the organization to improve customer satisfaction.
 
